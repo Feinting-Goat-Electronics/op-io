@@ -1,5 +1,5 @@
-#*
-*backups
-hardware-backups
-~hardware.kicad_sh.lck
-#auto_saved_files#
+hardware/#*
+hardware/*backups
+hardware/hardware-backups
+hardware/~hardware.kicad_sh.lck
+hardware/#auto_saved_files#

@@ -4,3 +4,4 @@ hardware/hardware-backups
 hardware/~hardware.kicad_sh.lck
 hardware/#auto_saved_files#
 hardware/fp-info-cache
+*.lck
